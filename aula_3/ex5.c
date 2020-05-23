@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Imprima apenas os números primos entre 0 e 100
+
 int main(void)
 {
 

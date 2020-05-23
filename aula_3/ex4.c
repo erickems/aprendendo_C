@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//Imprima, em graus Celsius e Fahrenheit, temperaturas de 20 até 50 graus Celsius.
+
 int main(void)
 {
 
